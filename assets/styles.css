@@ -9,12 +9,7 @@
 	background-color: rgba(255, 255, 255, 0.8);
   border-bottom-right-radius: 50px;
 }
-.log {
-	background-image: url(uclogo.jpg);
-	vertical-align: middle;
-	width: 50px;
-	height: 50px;
-}
+
 
 .text {
 	position: absolute;
